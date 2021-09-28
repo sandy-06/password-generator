@@ -8,7 +8,19 @@ function writePassword() {
 
   passwordText.value = password;
 
+  var alphabet = "abcdefghijklmnopqrstuvwxyz".split("");
+  var ucAlphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+  var numbers = numbers[1, 2, 3, 4, 5, 6, 7, 8, 9, 0];
+  var special = special["@", "%", "+", "!", "#", "$", "^", "?", ":", ",", "(", ")", "{", "}", "[", "]", "~"];
+
+
+
+
+
+
 }
+
+
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
