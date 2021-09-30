@@ -9,8 +9,8 @@ To do this I had to learn about Math.random, Math.floor, and window.commands. Th
 The program is added to the existing code. The user only has to answer the questions.
 
 ## Useage
-![alt text](./assets/Screenshot 2021-09-29 183242.jpg)
-![alt text](./assets/Screenshot 2021-09-29 183428.jpg)
+![alt text](./assets/Sc![Screenshot 2021-09-29 183242](/assets/Screenshot%202021-09-29%20183242_3r2fii064.jpg)reenshot 2021-09-29 183242.jpg)
+![alt text](./assets/Screenshot 2021-0![Screenshot 2021-09-29 183242](https://i.imgur.com/yODdsOp.jpg)9-29 183428.jpg)
 ## Credits
 I received help from the office hours Sept 25, 2021 zoom video
 
