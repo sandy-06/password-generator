@@ -4,7 +4,8 @@
 The project was to write the function to generate a password between 8 and 128 characters. The user is prompted for inclusion of lowercase letters, uppercase letters, numbers and special characteristics. They have to choose at least one type. These are randomly selected into a password and displayed on the screen. 
 
 To do this I had to learn about Math.random, Math.floor, and window.commands. The entire process makes the computer program more interactive.
-
+https://sandy-06.github.io/password-generator/
+https://github.com/sandy-06/password-generator/
 ## Installation
 The program is added to the existing code. The user only has to answer the questions.
 
